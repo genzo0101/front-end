@@ -63,7 +63,7 @@ h1 {
 #top ul.menu > li + li:before {
   content: "|\00a0";
   padding: 0 5px;
-  color: #f7f7f7;
+  color: #f7f7f8;
 }
 #top ul.menu > .active {
   color: #999999;
